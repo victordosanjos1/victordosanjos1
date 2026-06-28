@@ -2,7 +2,7 @@
 
 **`Desenvolvedor front-end`**
 
-Me chamo Victor dos Anjos, moro em Joinville Santa Catarina, estou cursando o 3° ano doensino médio integrado com curso técnico em desenvolvimento de sistemas. Eu gosto muito da área de tecnologia, desde pequeno era um sonho trabalhar com isso e é isso que quero seguir como carreira no futuro.
+Me chamo Victor dos Anjos, moro em Joinville Santa Catarina, estou cursando o 3° ano do ensino médio integrado com curso técnico em desenvolvimento de sistemas. Eu gosto muito da área de tecnologia, desde pequeno era um sonho trabalhar com isso e é isso que quero seguir como carreira no futuro.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/i-victordosanjos/">
